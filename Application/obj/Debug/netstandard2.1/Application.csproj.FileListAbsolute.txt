@@ -1,0 +1,14 @@
+/Users/medetkalpebaev/Reactivities/Application/bin/Debug/netstandard2.1/Application.deps.json
+/Users/medetkalpebaev/Reactivities/Application/bin/Debug/netstandard2.1/Application.dll
+/Users/medetkalpebaev/Reactivities/Application/bin/Debug/netstandard2.1/Application.pdb
+/Users/medetkalpebaev/Reactivities/Application/bin/Debug/netstandard2.1/Domain.dll
+/Users/medetkalpebaev/Reactivities/Application/bin/Debug/netstandard2.1/Persistense.dll
+/Users/medetkalpebaev/Reactivities/Application/bin/Debug/netstandard2.1/Domain.pdb
+/Users/medetkalpebaev/Reactivities/Application/bin/Debug/netstandard2.1/Persistense.pdb
+/Users/medetkalpebaev/Reactivities/Application/obj/Debug/netstandard2.1/Application.csprojAssemblyReference.cache
+/Users/medetkalpebaev/Reactivities/Application/obj/Debug/netstandard2.1/Application.AssemblyInfoInputs.cache
+/Users/medetkalpebaev/Reactivities/Application/obj/Debug/netstandard2.1/Application.AssemblyInfo.cs
+/Users/medetkalpebaev/Reactivities/Application/obj/Debug/netstandard2.1/Application.csproj.CoreCompileInputs.cache
+/Users/medetkalpebaev/Reactivities/Application/obj/Debug/netstandard2.1/Application.csproj.CopyComplete
+/Users/medetkalpebaev/Reactivities/Application/obj/Debug/netstandard2.1/Application.dll
+/Users/medetkalpebaev/Reactivities/Application/obj/Debug/netstandard2.1/Application.pdb
